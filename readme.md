@@ -32,12 +32,10 @@ The **PDF Reader with Text-to-Speech** is a Python-based application designed to
 
    git clone https://github.com/KunjShah95/PYPDF.git
    cd PYPDF
-Install the Dependencies:
-
+2. Install the Dependencies:
 pip install pyttsx3 PyPDF2
-Run the Application:
 
-
+3. Run the Application:
 python PYPDF.py
 Usage:
 
@@ -49,13 +47,5 @@ pdf_reader_tts.py: The main application file containing the GUI logic, PDF handl
 Contribution
 Contributions are welcome! If you would like to improve this project, please follow these steps:
 
-Fork this repository.
-Create a new branch:
-git checkout -b feature-new-feature
-Commit your changes:
-git commit -m "Add some feature"
-Push to the branch:
-git push origin feature-new-feature
-Open a pull request.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
